@@ -1,3 +1,13 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Musnud+Billah+Faysal....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+ 
+ 
  # Musnud Billah Faysal
 
 A passionate and dedicated MERN stack developer seeking an opportunity to utilize my skills in building scalable web applications. Eager to learn and grow in a dynamic tech environment.
