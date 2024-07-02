@@ -19,6 +19,9 @@
 </h5>
 
 <br>
+<hr>
+<h2 align="center">⚡ Current overview ⚡</h2>
+<br>
 <p align="center">
   Hi, I'm Musnud Billah Faysal, Frontend Developer from Bangladesh
   <br> 
