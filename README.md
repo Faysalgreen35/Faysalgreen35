@@ -51,9 +51,11 @@
 <br>
 <hr>
 
-### 🔨 Languages and Tools:
 
-<hr>
+
+## :computer: Technologies and Skills that I know
+
+<br><br>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img align="left" alt="JavaScript" height ="48px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
@@ -79,9 +81,15 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
   <img align="left" alt="HTML" height="48px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg">
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
+  <img align="left" alt="CSS" height="48px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg">
+</a>
+ 
+
 
 <br><br><br>
 <hr>
+
 ## Projects
 
 <div style="display: flex; justify-content: space-between;">
@@ -91,13 +99,12 @@
 <div style="width: 48%; background-color: #f0f0f0; padding: 20px;">
 
 [![Live Preview](https://img.shields.io/badge/-Live_Preview-blueviolet?style=for-the-badge)](https://pet-adoption-eccce.web.app)
-[![Client Code](https://img.shields.io/badge/-Client_Code-blueviolet?style=for-the-badge)](https://github.com/Faysalgreen35/Pet-Adoption-Client)
-[![Server Code](https://img.shields.io/badge/-Server_Code-blueviolet?style=for-the-badge)](https://github.com/Faysalgreen35/Pet-Adoption-Server)
+[![Client Code](https://img.shields.io/badge/-Client_Code-orange?style=for-the-badge)](https://github.com/Faysalgreen35/Pet-Adoption-Client)
+[![Server Code](https://img.shields.io/badge/-Server_Code-red?style=for-the-badge)](https://github.com/Faysalgreen35/Pet-Adoption-Server)
 
 A MERN stack-based platform revolutionizing product interaction, enabling users to explore, share, and collaborate on insights.
 
-
-### Features
+#### Features
 - **Pet Listing**: Enables users to browse pets available for adoption and submit adoption requests directly to the pet's owner.
 - **Donation Campaigns**: Empowers users to contribute donations to specific pets through the Stripe payment system. Additionally, users can initiate donation requests for pets in need.
 - **Navbar**: Includes a logo, navigation links (Home, Pet Listing, Donation Campaigns, Login/Register), and a user profile section with a dropdown menu.
@@ -106,22 +113,22 @@ A MERN stack-based platform revolutionizing product interaction, enabling users 
 - **Call to Action Section**: Inspires users to adopt pets through compelling images and persuasive text.
 - **About Us Section**: Provides a concise introduction to the website's mission and functionality.
 
-### Technologies Used
-- **Frontend**: React, Flowbite, Skeleton, Tiptap, Tanstack Table, Tanstack Query
-- **Backend**: Node.js, Express.js, MongoDB
-- **Authentication**: Firebase Authentication
-- **Payment Processing**: Stripe
-- **Styling and UI Components**: Tailwind CSS, Flowbite
-- **Data Management**: Tanstack Query
-- **Text Editor**: Tiptap
+#### Technology & Framework
+- HTML, CSS, Tailwind CSS, React, JavaScript, MongoDB, Express.js, JWT, Firebase Authentication, Git, Tanstack Table, Tanstack Query, Flowbite,Tiptap,
+ 
+</div>
+
+<br><br><br>
+<hr>
 
 ### ProductPulse
 
 <div style="width: 48%; background-color: #f0f0f0; padding: 20px;">
 
 [![Live Preview](https://img.shields.io/badge/-Live_Preview-blueviolet?style=for-the-badge)](https://product-pulse-7aeac.web.app)
-[![Client Code](https://img.shields.io/badge/-Client_Code-blueviolet?style=for-the-badge)](https://github.com/Faysalgreen35/ProductPulse-Client)
-[![Server Code](https://img.shields.io/badge/-Server_Code-blueviolet?style=for-the-badge)](https://github.com/Faysalgreen35/ProductPulse-Server)
+[![Client Code](https://img.shields.io/badge/-Client_Code-orange?style=for-the-badge)](https://github.com/Faysalgreen35/ProductPulse-Client)
+[![Server Code](https://img.shields.io/badge/-Server_Code-red?style=for-the-badge)](https://github.com/Faysalgreen35/ProductPulse-Server)
+
 
 A MERN stack-based platform revolutionizing product interaction, enabling users to explore, share, and collaborate on insights.
 
@@ -134,16 +141,19 @@ A MERN stack-based platform revolutionizing product interaction, enabling users 
 - HTML, CSS, Tailwind CSS, Daisy UI, React, JavaScript, MongoDB, Express.js, JWT, Firebase, Git
 
 </div>
+
+
+<br><br><br>
 <hr>
-<br>
 
 ### Craftify Creations
 
 <div style="width: 48%; background-color: #f0f0f0; padding: 20px;">
 
 [![Live Preview](https://img.shields.io/badge/-Live_Preview-blueviolet?style=for-the-badge)](https://craftify-creations.web.app)
-[![Client Code](https://img.shields.io/badge/-Client_Code-blueviolet?style=for-the-badge)](https://github.com/Faysalgreen35/CraftifyCreations-Client)
-[![Server Code](https://img.shields.io/badge/-Server_Code-blueviolet?style=for-the-badge)](https://github.com/Faysalgreen35/CraftifyCreations-Server)
+[![Client Code](https://img.shields.io/badge/-Client_Code-orange?style=for-the-badge)](https://github.com/Faysalgreen35/CraftifyCreations-Client)
+[![Server Code](https://img.shields.io/badge/-Server_Code-red?style=for-the-badge)](https://github.com/Faysalgreen35/CraftifyCreations-Server)
+
 
 A platform for exploring painting and drawing, allowing users to unleash creativity through various techniques.
 
@@ -159,4 +169,5 @@ A platform for exploring painting and drawing, allowing users to unleash creativ
 </div>
 
 </div>
+
  
