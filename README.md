@@ -20,8 +20,10 @@
 
 <br>
 <hr>
+ 
 <h2 align="center">⚡ Current overview ⚡</h2>
-<br>
+
+
 <p align="center">
   Hi, I'm Musnud Billah Faysal, Frontend Developer from Bangladesh
   <br> 
@@ -78,7 +80,8 @@
   <img align="left" alt="HTML" height="48px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg">
 </a>
 
-<br><br>
+<br><br><br>
+<hr>
 ## Projects
 
 <div style="display: flex; justify-content: space-between;">
