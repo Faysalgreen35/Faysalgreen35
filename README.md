@@ -8,7 +8,31 @@
 
  
  
- # Musnud Billah Faysal
+<h5 align="center">
+  <code><a href="[https://www.linkedin.com/in/osmandurdag/](https://www.linkedin.com/in/musnud-billah-faysal)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="Facebook Profile"><img width="22" src="[images/hackerrank.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVTF6ASkXyEv-rYOsCtQs_iT6CyTKfaKRUw&s)"> Facebook</a></code> 
+  <code><a href="[https://www.instagram.com/mbf012?igsh=OGQ5ZDc2ODk2ZA==]" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+
+<br>
+<p align="center">
+  Hi, I'm Musnud Billah Faysal, Frontend Developer from Bangladesh
+  <br>
+  
+  🎓 I graduated from Green University of Bangladesh, Department of Computer Science (Undergraduate)
+  <br>
+  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website with Django
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/Faysalgreen35/" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: musnud1234@gmail.com">musnud1234@gmail.com</a>
+</p>
+
+<hr>
 
 A passionate and dedicated MERN stack developer seeking an opportunity to utilize my skills in building scalable web applications. Eager to learn and grow in a dynamic tech environment.
 
