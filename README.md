@@ -79,67 +79,81 @@
 </a>
 
 <br><br>
+## Projects
+
+<div style="display: flex; justify-content: space-between;">
+
+### Pet Adoption
+
+<div style="width: 48%; background-color: #f0f0f0; padding: 20px;">
+
+[![Live Preview](https://img.shields.io/badge/-Live_Preview-blueviolet?style=for-the-badge)](https://pet-adoption-eccce.web.app)
+[![Client Code](https://img.shields.io/badge/-Client_Code-blueviolet?style=for-the-badge)](https://github.com/Faysalgreen35/Pet-Adoption-Client)
+[![Server Code](https://img.shields.io/badge/-Server_Code-blueviolet?style=for-the-badge)](https://github.com/Faysalgreen35/Pet-Adoption-Server)
+
+A MERN stack-based platform revolutionizing product interaction, enabling users to explore, share, and collaborate on insights.
 
 
+### Features
+- **Pet Listing**: Enables users to browse pets available for adoption and submit adoption requests directly to the pet's owner.
+- **Donation Campaigns**: Empowers users to contribute donations to specific pets through the Stripe payment system. Additionally, users can initiate donation requests for pets in need.
+- **Navbar**: Includes a logo, navigation links (Home, Pet Listing, Donation Campaigns, Login/Register), and a user profile section with a dropdown menu.
+- **Banner Section**: Showcases visually captivating banners or sliders that spotlight key messages and promotions.
+- **Pets Category Section**: Facilitates easy navigation with categorized buttons or cards for different types of pets (Cats, Dogs, Rabbits, Fish, etc.).
+- **Call to Action Section**: Inspires users to adopt pets through compelling images and persuasive text.
+- **About Us Section**: Provides a concise introduction to the website's mission and functionality.
 
-A passionate and dedicated MERN stack developer seeking an opportunity to utilize my skills in building scalable web applications. Eager to learn and grow in a dynamic tech environment.
-
-Location: Mirpur 10, Dhaka, 1216  
-Phone: 01629921913  
-Email: musnud1234@gmail.com  
-LinkedIn: [Musnud Billah Faysal](https://www.linkedin.com/in/musnud-billah-faysal)  
-GitHub: [Faysalgreen35 (Musnud Billah Faysal)](https://github.com/Faysalgreen35)  
-
-## EXPERIENCE
-
-**IIML, Dhaka— Data Analyst**  
-July 2020 - PRESENT  
-
-## EDUCATION
-
-**Green University of Bangladesh, Dhaka— Bsc in CSE**  
-Relevant coursework: Web Development, Database Management, Software Engineering  
-
-## PROJECTS
-## Pinned Repositories
-
-<div align="center">
+### Technologies Used
+- **Frontend**: React, Flowbite, Skeleton, Tiptap, Tanstack Table, Tanstack Query
+- **Backend**: Node.js, Express.js, MongoDB
+- **Authentication**: Firebase Authentication
+- **Payment Processing**: Stripe
+- **Styling and UI Components**: Tailwind CSS, Flowbite
+- **Data Management**: Tanstack Query
+- **Text Editor**: Tiptap
 
 ### ProductPulse
 
-<div style="border-radius: 10px; padding: 20px; background: linear-gradient(145deg, #0000FF, #FF0000); width: 50%; margin-bottom: 20px; color: white;">
-  <h2>Product Pulse</h2>
-  <p>A MERN stack-based platform revolutionizing product interaction, enabling users to explore, share, and collaborate on insights.</p>
-  <ul>
-    <li>Implemented real-time user reviews and personalized recommendations.</li>
-    <li>Utilized Firebase Authentication for user login via Google and Facebook.</li>
-    <li>Developed admin and user dashboards for managing content and user interactions.</li>
-  </ul>
-  <p><b>Technology & Framework:</b> HTML, CSS, Tailwind CSS, Daisy UI, React, JavaScript, MongoDB, Express.js, JWT, Firebase, Git</p>
-  <p>
-    <a href="https://product-pulse-7aeac.web.app" style="color: white;">Live Preview</a> | 
-    <a href="https://github.com/Faysalgreen35/ProductPulse-Client" style="color: white;">Client Code</a> | 
-    <a href="https://github.com/Faysalgreen35/ProductPulse-Server" style="color: white;">Server Code</a>
-  </p>
+<div style="width: 48%; background-color: #f0f0f0; padding: 20px;">
+
+[![Live Preview](https://img.shields.io/badge/-Live_Preview-blueviolet?style=for-the-badge)](https://product-pulse-7aeac.web.app)
+[![Client Code](https://img.shields.io/badge/-Client_Code-blueviolet?style=for-the-badge)](https://github.com/Faysalgreen35/ProductPulse-Client)
+[![Server Code](https://img.shields.io/badge/-Server_Code-blueviolet?style=for-the-badge)](https://github.com/Faysalgreen35/ProductPulse-Server)
+
+A MERN stack-based platform revolutionizing product interaction, enabling users to explore, share, and collaborate on insights.
+
+#### Features
+- Implemented real-time user reviews and personalized recommendations.
+- Utilized Firebase Authentication for user login via Google and Facebook.
+- Developed admin and user dashboards for managing content and user interactions.
+
+#### Technology & Framework
+- HTML, CSS, Tailwind CSS, Daisy UI, React, JavaScript, MongoDB, Express.js, JWT, Firebase, Git
+
 </div>
+<hr>
+<br>
 
 ### Craftify Creations
 
-<div style="border-radius: 10px; padding: 20px; background: linear-gradient(145deg, #0000FF, #FF0000); width: 50%; margin-bottom: 20px; color: white;">
-  <h2>Craftify Creations</h2>
-  <p>A platform for exploring painting and drawing, allowing users to unleash creativity through various techniques.</p>
-  <ul>
-    <li>Enabled custom design creation and showcased user artworks.</li>
-    <li>Implemented Firebase Authentication for user login via Google, Facebook, and GitHub.</li>
-    <li>Created a customized dashboard for users and admins.</li>
-    <li>Integrated MongoDB for storing user data and artworks.</li>
-  </ul>
-  <p><b>Technology & Framework:</b> HTML, CSS, Tailwind CSS, Daisy UI, React, JavaScript, MongoDB, Firebase, Express.js, Git</p>
-  <p>
-    <a href="https://craftify-creations.web.app" style="color: white;">Live Preview</a> | 
-    <a href="https://github.com/Faysalgreen35/CraftifyCreations-Client" style="color: white;">Client Code</a> | 
-    <a href="https://github.com/Faysalgreen35/CraftifyCreations-Server" style="color: white;">Server Code</a>
-  </p>
+<div style="width: 48%; background-color: #f0f0f0; padding: 20px;">
+
+[![Live Preview](https://img.shields.io/badge/-Live_Preview-blueviolet?style=for-the-badge)](https://craftify-creations.web.app)
+[![Client Code](https://img.shields.io/badge/-Client_Code-blueviolet?style=for-the-badge)](https://github.com/Faysalgreen35/CraftifyCreations-Client)
+[![Server Code](https://img.shields.io/badge/-Server_Code-blueviolet?style=for-the-badge)](https://github.com/Faysalgreen35/CraftifyCreations-Server)
+
+A platform for exploring painting and drawing, allowing users to unleash creativity through various techniques.
+
+#### Features
+- Enabled custom design creation and showcased user artworks.
+- Implemented Firebase Authentication for user login via Google, Facebook, and GitHub.
+- Created a customized dashboard for users and admins.
+- Integrated MongoDB for storing user data and artworks.
+
+#### Technology & Framework
+- HTML, CSS, Tailwind CSS, Daisy UI, React, JavaScript, MongoDB, Firebase, Express.js, Git
+
 </div>
 
 </div>
+ 
