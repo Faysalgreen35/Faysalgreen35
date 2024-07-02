@@ -9,8 +9,8 @@
  
  
 <h5 align="center">
-  <code><a href="[https://www.linkedin.com/in/osmandurdag/](https://www.linkedin.com/in/musnud-billah-faysal)" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="Facebook Profile"><img width="22" src="[images/hackerrank.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVTF6ASkXyEv-rYOsCtQs_iT6CyTKfaKRUw&s)"> Facebook</a></code> 
+  <code><a href="[https://www.linkedin.com/in/osmandurdag/](https://www.linkedin.com/in/musnud-billah-faysal)" title="LinkedIn Profile"><img width="22" src="[ "https://shorturl.at/KQjV5"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka](https://shorturl.at/KQjV5)" title="Facebook Profile"><img width="22" src="[images/hackerrank.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwVTF6ASkXyEv-rYOsCtQs_iT6CyTKfaKRUw&s)"> Facebook</a></code> 
   <code><a href="[https://www.instagram.com/mbf012?igsh=OGQ5ZDc2ODk2ZA==]" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
