@@ -3,11 +3,10 @@
 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Faysalgreen35.Faysalgreen35">
 
-<h1 align="center">
+<h1 align="center" >
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Musnud+Billah+Faysal....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+</h1> 
 
 
  
@@ -40,7 +39,9 @@
 
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
+<br><br>
+
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Faysalgreen35&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Faysalgreen35&show_icons=true&theme=react&hide_border=true&background=0D1117&icon_color=FF1CF7&title_color=00F0FF&text_color=FFFFFF" />
@@ -90,7 +91,7 @@
 <br><br><br>
 <hr>
 
-## Projects
+## 👨‍💻  Projects
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -169,5 +170,46 @@ A platform for exploring painting and drawing, allowing users to unleash creativ
 </div>
 
 </div>
+<!--
+## 👨‍💻 Repositories 👨‍💻
 
- 
+<h4 align="center">Explore some of my projects below:</h4>
+
+<div align="center">
+  <a href="https://github.com/Faysalgreen35/Pet-Adoption-Client" title="Pet Adoption Client">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Faysalgreen35&repo=Pet-Adoption-Client&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/Faysalgreen35/Pet-Adoption-Server" title="Pet Adoption Server">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Faysalgreen35&repo=Pet-Adoption-Server&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div align="center">
+  <a href="https://github.com/Faysalgreen35/ProductPulse-Client" title="Product Pulse Client">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Faysalgreen35&repo=ProductPulse-Client&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/Faysalgreen35/ProductPulse-Server" title="Product Pulse Server">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Faysalgreen35&repo=ProductPulse-Server&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<div align="center">
+  <a href="https://github.com/Faysalgreen35/CraftifyCreations-Client" title="Craftify Creations Client">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Faysalgreen35&repo=CraftifyCreations-Client&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/Faysalgreen35/CraftifyCreations-Server" title="Craftify Creations Server">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Faysalgreen35&repo=CraftifyCreations-Server&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Faysalgreen35?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+ -->
