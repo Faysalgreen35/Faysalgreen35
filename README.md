@@ -1,15 +1,13 @@
 <h1 align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/0/1683909809034?e=2147483647&v=beta&t=4fGfWqzZukhw96bqPVg3D7DcGj9QURTHNOlUH_XShXY" alt="Banner" height:20% width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQGRsL7h26w-Bg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1711431970518?e=2147483647&v=beta&t=7MUoFdBoTt2bbPGQLIg36dcFCRHCwu1HyicK282aK6Y" alt="Full Stack Developer Banner" width="100%" />
 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Faysalgreen35.Faysalgreen35">
 
-<h1 align="center" >
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Musnud+Billah+Faysal....;Nice+to+meet+you!&center=true&size=30">
-</h1> 
-
-
- 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Musnud+Billah+Faysal;Full+Stack+Developer&center=true&size=30">
+  </a>
+</h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/musnud-billah-faysal" title="LinkedIn Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> LinkedIn</a></code>
@@ -19,28 +17,73 @@
 
 <br>
 <hr>
- 
-<h2 align="center">⚡ Current overview ⚡</h2>
 
+<h2 align="center">⚡ About Me ⚡</h2>
 
 <p align="center">
-  Hi, I'm Musnud Billah Faysal, Frontend Developer from Bangladesh
-  <br> 
-  🎓 I graduated from Green University of Bangladesh, Department of Computer Science (Undergraduate)
+  Passionate Full Stack Developer with expertise in building scalable web applications using MERN stack and Next.js. 
   <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/Faysalgreen35/" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: musnud1234@gmail.com">musnud1234@gmail.com</a>
+  Focused on creating efficient, user-friendly solutions with clean code and modern architectures.
 </p>
 
 <hr>
-<h2 align="center">⚡ Stats ⚡</h2>
 
-<br><br>
+<h2 align="center">🚀 Technologies & Tools</h2>
+
+<div align="center">
+  
+  <!-- Marquee for frontend technologies -->
+  <h3>Frontend</h3>
+  <div style="overflow: hidden; white-space: nowrap; background: #0D1117; padding: 10px; border-radius: 5px; margin: 10px 0;">
+    <div style="display: inline-block; animation: marquee 20s linear infinite;">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+    </div>
+  </div>
+   
+  <h3>Backend</h3>
+  <div style="overflow: hidden; white-space: nowrap; background: #0D1117; padding: 10px; border-radius: 5px; margin: 10px 0;">
+    <div style="display: inline-block; animation: marquee 20s linear infinite;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+    </div>
+  </div>
+   
+  <h3>Database</h3>
+  <div style="overflow: hidden; white-space: nowrap; background: #0D1117; padding: 10px; border-radius: 5px; margin: 10px 0;">
+    <div style="display: inline-block; animation: marquee 20s linear infinite;">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+    </div>
+  </div>
+  
+ 
+  <h3>DevOps & Tools</h3>
+  <div style="overflow: hidden; white-space: nowrap; background: #0D1117; padding: 10px; border-radius: 5px; margin: 10px 0;">
+    <div style="display: inline-block; animation: marquee 20s linear infinite;">
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+    </div>
+  </div>
+</div>
+
+
+
+<hr>
+
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Faysalgreen35&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
@@ -49,167 +92,53 @@
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faysalgreen35&layout=compact&theme=react&hide_border=true&background=0D1117&icon_color=FF1CF7&title_color=00F0FF&text_color=FFFFFF" />
 </p>
-<br>
+
 <hr>
 
+<h2 align="center">💼 Professional Experience</h2>
+
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+
+### 🏢 Full Stack Developer
+**AetherZen* | *June 2024 - Present*  
+- Developed and maintained web applications using MERN stack and Next.js
+- Implemented RESTful APIs and GraphQL endpoints
+- Optimized application performance and improved load times by 40%
+- Collaborated with cross-functional teams to deliver high-quality products
+
+### 🎓 Education
+**Green University of Bangladesh**  
+*BSc in Computer Science* | *2016 - 2020*  
+- Specialized in Web Development and Software Engineering
 
 
-## :computer: Technologies and Skills that I know
+</div>
 
-<br><br>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img align="left" alt="JavaScript" height ="48px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg">
-</a>
-<a href="https://reactjs.org/" target="_blank"> 
-  <img align="left" alt="React" height ="48px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
-</a>
-<a href="https://nodejs.org" target="_blank">
-  <img align="left" alt="Node.js" height ="48px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
-</a>
-<a href="https://git-scm.com/" target="_blank"> 
-  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height='48px'/> 
-</a>
-<a href="https://firebase.google.com/" target="_blank"> 
-  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="48px"/>
-</a>
-<a href="https://www.figma.com/" target="_blank"> 
-  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='48px'/> 
-</a>
-<a href="https://tailwindcss.com/" target="_blank"> 
-  <img align="left" alt="Tailwind CSS" height="48px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-  <img align="left" alt="HTML" height="48px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-  <img align="left" alt="CSS" height="48px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg">
-</a>
- 
-
-
-<br><br><br>
 <hr>
 
-## 👨‍💻  Projects
+<h2 align="center">🏆 Achievements</h2>
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  
 
-### Pet Adoption
+- 🏅 **Top Contributor** - Open Source Project (2022)
+- 📜 **Certified** - Advanced React Developer (2023)
+- 🚀 **Launched** 5+ production applications with 10k+ users
 
-<div style="width: 48%; background-color: #f0f0f0; padding: 20px;">
-
-[![Live Preview](https://img.shields.io/badge/-Live_Preview-blueviolet?style=for-the-badge)](https://pet-adoption-eccce.web.app)
-[![Client Code](https://img.shields.io/badge/-Client_Code-orange?style=for-the-badge)](https://github.com/Faysalgreen35/Pet-Adoption-Client)
-[![Server Code](https://img.shields.io/badge/-Server_Code-red?style=for-the-badge)](https://github.com/Faysalgreen35/Pet-Adoption-Server)
-
-A MERN stack-based platform revolutionizing product interaction, enabling users to explore, share, and collaborate on insights.
-
-#### Features
-- **Pet Listing**: Enables users to browse pets available for adoption and submit adoption requests directly to the pet's owner.
-- **Donation Campaigns**: Empowers users to contribute donations to specific pets through the Stripe payment system. Additionally, users can initiate donation requests for pets in need.
-- **Navbar**: Includes a logo, navigation links (Home, Pet Listing, Donation Campaigns, Login/Register), and a user profile section with a dropdown menu.
-- **Banner Section**: Showcases visually captivating banners or sliders that spotlight key messages and promotions.
-- **Pets Category Section**: Facilitates easy navigation with categorized buttons or cards for different types of pets (Cats, Dogs, Rabbits, Fish, etc.).
-- **Call to Action Section**: Inspires users to adopt pets through compelling images and persuasive text.
-- **About Us Section**: Provides a concise introduction to the website's mission and functionality.
-
-#### Technology & Framework
-- HTML, CSS, Tailwind CSS, React, JavaScript, MongoDB, Express.js, JWT, Firebase Authentication, Git, Tanstack Table, Tanstack Query, Flowbite,Tiptap,
- 
 </div>
 
-<br><br><br>
 <hr>
 
-### ProductPulse
+<h2 align="center">📫 Let's Connect</h2>
 
-<div style="width: 48%; background-color: #f0f0f0; padding: 20px;">
-
-[![Live Preview](https://img.shields.io/badge/-Live_Preview-blueviolet?style=for-the-badge)](https://product-pulse-7aeac.web.app)
-[![Client Code](https://img.shields.io/badge/-Client_Code-orange?style=for-the-badge)](https://github.com/Faysalgreen35/ProductPulse-Client)
-[![Server Code](https://img.shields.io/badge/-Server_Code-red?style=for-the-badge)](https://github.com/Faysalgreen35/ProductPulse-Server)
-
-
-A MERN stack-based platform revolutionizing product interaction, enabling users to explore, share, and collaborate on insights.
-
-#### Features
-- Implemented real-time user reviews and personalized recommendations.
-- Utilized Firebase Authentication for user login via Google and Facebook.
-- Developed admin and user dashboards for managing content and user interactions.
-
-#### Technology & Framework
-- HTML, CSS, Tailwind CSS, Daisy UI, React, JavaScript, MongoDB, Express.js, JWT, Firebase, Git
-
-</div>
-
-
-<br><br><br>
-<hr>
-
-### Craftify Creations
-
-<div style="width: 48%; background-color: #f0f0f0; padding: 20px;">
-
-[![Live Preview](https://img.shields.io/badge/-Live_Preview-blueviolet?style=for-the-badge)](https://craftify-creations.web.app)
-[![Client Code](https://img.shields.io/badge/-Client_Code-orange?style=for-the-badge)](https://github.com/Faysalgreen35/CraftifyCreations-Client)
-[![Server Code](https://img.shields.io/badge/-Server_Code-red?style=for-the-badge)](https://github.com/Faysalgreen35/CraftifyCreations-Server)
-
-
-A platform for exploring painting and drawing, allowing users to unleash creativity through various techniques.
-
-#### Features
-- Enabled custom design creation and showcased user artworks.
-- Implemented Firebase Authentication for user login via Google, Facebook, and GitHub.
-- Created a customized dashboard for users and admins.
-- Integrated MongoDB for storing user data and artworks.
-
-#### Technology & Framework
-- HTML, CSS, Tailwind CSS, Daisy UI, React, JavaScript, MongoDB, Firebase, Express.js, Git
-
-</div>
-
-</div>
-<!--
-## 👨‍💻 Repositories 👨‍💻
-
-<h4 align="center">Explore some of my projects below:</h4>
-
-<div align="center">
-  <a href="https://github.com/Faysalgreen35/Pet-Adoption-Client" title="Pet Adoption Client">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Faysalgreen35&repo=Pet-Adoption-Client&theme=react&border_color=61dafb&border_radius=10">
+<p align="center">
+  <a href="mailto:musnud1234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/Faysalgreen35/Pet-Adoption-Server" title="Pet Adoption Server">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Faysalgreen35&repo=Pet-Adoption-Server&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://www.linkedin.com/in/musnud-billah-faysal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div align="center">
-  <a href="https://github.com/Faysalgreen35/ProductPulse-Client" title="Product Pulse Client">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Faysalgreen35&repo=ProductPulse-Client&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/Faysalgreen35">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://github.com/Faysalgreen35/ProductPulse-Server" title="Product Pulse Server">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Faysalgreen35&repo=ProductPulse-Server&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div align="center">
-  <a href="https://github.com/Faysalgreen35/CraftifyCreations-Client" title="Craftify Creations Client">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Faysalgreen35&repo=CraftifyCreations-Client&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/Faysalgreen35/CraftifyCreations-Server" title="Craftify Creations Server">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Faysalgreen35&repo=CraftifyCreations-Server&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/Faysalgreen35?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
- -->
+</p>
